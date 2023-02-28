@@ -1,4 +1,14 @@
-# __TAMARA FEDYANOVA__{: style="color: red; opacity: 0.80;" }
+<style>
+mark{
+    color:red;
+    font-size: 36px;
+    font-weight: 700;
+    opasity: 0.8;
+}
+</style>
+<mark>TAMARA FEDYANOVA</mark>
+# __TAMARA FEDYANOVA__
+
 
 *********************
 **My contact**: 
@@ -22,15 +32,15 @@ will help me to get hard skills in RS school, and I will start working as a prog
 
 **My education**
 Higher education: 
-economics; 
-law.
+economist; 
+lawwr.
 Courses:
-1.RRSchool: stage 0;
-2.Stepik: Web-tehnologis - start; The equation; Scientific thinking;
-3.CodeBasics: HTML, CSS.
+*RRSchool: stage 0;
+*Stepik: Web-tehnologis - start; The equation; Scientific thinking;
+*CodeBasics: HTML, CSS.
 
 **Scills**
-1. HTML,
+1. HTML
 2. SASS, SCC,
 3. JS(basic);
 4. Github, git.
