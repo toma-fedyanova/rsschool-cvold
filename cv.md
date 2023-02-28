@@ -1,4 +1,4 @@
-# __TAMARA FEDYANOVA__
+<span style="color:blue"># __TAMARA FEDYANOVA__</span>
 
 *********************
 **My contact**: 
@@ -25,9 +25,9 @@ Higher education:
 economics; 
 law.
 Courses:
-RRSchool: stage 0;
-Stepik: Web-tehnologis - start; The equation; Scientific thinking;
-CodeBasics: HTML, CSS.
+1.RRSchool: stage 0;
+2.Stepik: Web-tehnologis - start; The equation; Scientific thinking;
+3.CodeBasics: HTML, CSS.
 
 **Scills**
 1. HTML,
