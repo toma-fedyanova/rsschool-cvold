@@ -1,4 +1,4 @@
-<span style="color:blue"># __TAMARA FEDYANOVA__</span>
+# __TAMARA FEDYANOVA__{: style="color: red; opacity: 0.80;" }
 
 *********************
 **My contact**: 
