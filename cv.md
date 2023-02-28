@@ -1,14 +1,3 @@
-<style>
-.mark{
-    color:red;
-    font-size: 36px;
-    font-weight: 700;
-    opasity: 0.8;
-}
-</style>
-<div class="mark">
-    TAMARA FEDYANOVA
-</div>
 # __TAMARA FEDYANOVA__
 
 
