@@ -1,12 +1,14 @@
 <style>
-mark{
+.mark{
     color:red;
     font-size: 36px;
     font-weight: 700;
     opasity: 0.8;
 }
 </style>
-<mark>TAMARA FEDYANOVA</mark>
+<div class="mark">
+    TAMARA FEDYANOVA
+</div>
 # __TAMARA FEDYANOVA__
 
 
