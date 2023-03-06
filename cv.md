@@ -54,4 +54,4 @@ https://rolling-scopes-school.github.io/toma-fedyanova-JSFEPRESCHOOL2022Q4/momen
 2. Plants - landing 
 https://toma-fedyanova.github.io/plants/index.html
 3. JS in github
-4. https://github.com/toma-fedyanova
+ https://github.com/toma-fedyanova
