@@ -1,5 +1,6 @@
 # __TAMARA FEDYANOVA__
 
+![avatar](https://user-images.githubusercontent.com/112993598/223278731-1cd88a24-6e86-41cb-ad7b-fc2dabc90896.jpg)
 
 *********************
 **My contact**: 
