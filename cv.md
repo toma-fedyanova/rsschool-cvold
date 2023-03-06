@@ -1,7 +1,5 @@
 # __TAMARA FEDYANOVA__
-
-![avatar](https://user-images.githubusercontent.com/112993598/223278731-1cd88a24-6e86-41cb-ad7b-fc2dabc90896.jpg)
-
+![avatar-correct](https://user-images.githubusercontent.com/112993598/223278996-c8d9e8b1-299a-4a2b-8a6e-08816e3274ac.jpg)
 *********************
 **My contact**: 
 
@@ -49,3 +47,11 @@ let num = 1;
 ```
 **My English level:** 
 pre-intermediate
+
+**My Projects:** 
+1. Momentum
+https://rolling-scopes-school.github.io/toma-fedyanova-JSFEPRESCHOOL2022Q4/momentum/
+2. Plants - landing 
+https://toma-fedyanova.github.io/plants/index.html
+3. JS in github
+4. https://github.com/toma-fedyanova
