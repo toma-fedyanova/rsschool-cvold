@@ -1,1 +1,1 @@
-# rsschool-cv https://github.com/toma-fedyanova/rsschool-cv/blob/gh-pages/cv.md
+https://toma-fedyanova.github.io/rsschool-cv/cv
